@@ -1,0 +1,7 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "type",
+ "id": "xml-string",
+ "description": "XML - eXtensible Markup Language as string.",
+ "schema": "string"
+}
